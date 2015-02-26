@@ -16,7 +16,7 @@ At the moment, functionality is lacking, a Window System has not really been add
 So far, I have considered the following
 - X11
 - Wayland
-- 
+
 Any opinions on which one would be appreciated. I have no experience with Window Mnager APIs, so this may be a bit of an uphill battle.
 
 
